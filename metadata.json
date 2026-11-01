@@ -1,0 +1,6 @@
+{
+  "name": "FINORA – Personal Finance Tracker",
+  "description": "A premium, Apple & Revolut-inspired personal finance tracker to manage daily expenses, income, monthly budgets, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
